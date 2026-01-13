@@ -1,0 +1,2 @@
+<button onclick="marcar()">Marcar hábito</button>
+<p id="count">0 hábitos concluídos</p>
